@@ -4,10 +4,10 @@
 Helpful US holiday class and DateTime extensions
 
 ##How to use
-'''csharp
+```csharp
 //federal holidays
 var holidaySchedule = new UnitedStatesHolidaySchedule(UnitedStatesHolidayScheduleTypes.Federal, DateTime.Today.Year);
-'''
+
 
 //federal observed holidays
 var observed = holidaySchedule.GetObservedHolidays();
@@ -18,4 +18,4 @@ var smHolidaySchedule = new UnitedStatesHolidaySchedule(UnitedStatesHolidaySched
 
 //federal observed holidays
 var smObserved = smHolidaySchedule.GetObservedHolidays();
-'''
+```
