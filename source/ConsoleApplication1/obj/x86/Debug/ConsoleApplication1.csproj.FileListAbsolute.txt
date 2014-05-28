@@ -1,0 +1,18 @@
+U:\Users\franklin\My Documents\Visual Studio 2010\Projects\LonnieFranklin\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+U:\Users\franklin\My Documents\Visual Studio 2010\Projects\LonnieFranklin\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+U:\Users\franklin\My Documents\Visual Studio 2010\Projects\LonnieFranklin\ConsoleApplication1\bin\Debug\mscorlib-ext.dll
+U:\Users\franklin\My Documents\Visual Studio 2010\Projects\LonnieFranklin\ConsoleApplication1\bin\Debug\mscorlib-ext.pdb
+U:\Users\franklin\My Documents\Visual Studio 2010\Projects\LonnieFranklin\ConsoleApplication1\bin\Debug\mscorlib-ext.xml
+U:\Users\franklin\My Documents\Visual Studio 2010\Projects\LonnieFranklin\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+U:\Users\franklin\My Documents\Visual Studio 2010\Projects\LonnieFranklin\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+U:\Users\franklin\My Documents\Visual Studio 2010\Projects\LonnieFranklin\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+U:\Users\Lonnie\Downloads\DateTimeExtensionAndHolidaySchedule\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+U:\Users\Lonnie\Downloads\DateTimeExtensionAndHolidaySchedule\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+U:\Users\Lonnie\Downloads\DateTimeExtensionAndHolidaySchedule\ConsoleApplication1\bin\Debug\mscorlib-ext.dll
+U:\Users\Lonnie\Downloads\DateTimeExtensionAndHolidaySchedule\ConsoleApplication1\bin\Debug\mscorlib-ext.pdb
+U:\Users\Lonnie\Downloads\DateTimeExtensionAndHolidaySchedule\ConsoleApplication1\bin\Debug\mscorlib-ext.xml
+U:\Users\Lonnie\Downloads\DateTimeExtensionAndHolidaySchedule\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+U:\Users\Lonnie\Downloads\DateTimeExtensionAndHolidaySchedule\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+U:\Users\Lonnie\Downloads\DateTimeExtensionAndHolidaySchedule\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Lonnie\Documents\HolidayCalendar\source\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Lonnie\Documents\HolidayCalendar\source\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb

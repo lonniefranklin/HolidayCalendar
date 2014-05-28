@@ -1,0 +1,14 @@
+U:\Users\Lonnie\Downloads\DateTimeExtensionAndHolidaySchedule\bin\mscorlib-ext.XML
+U:\Users\Lonnie\Downloads\DateTimeExtensionAndHolidaySchedule\bin\mscorlib-ext.dll
+U:\Users\Lonnie\Downloads\DateTimeExtensionAndHolidaySchedule\bin\mscorlib-ext.pdb
+U:\Users\Lonnie\Downloads\DateTimeExtensionAndHolidaySchedule\mscorlib-ext\obj\Release\mscorlib-ext.dll
+U:\Users\Lonnie\Downloads\DateTimeExtensionAndHolidaySchedule\mscorlib-ext\obj\Release\mscorlib-ext.pdb
+U:\Users\Lonnie\Downloads\DateTimeExtensionAndHolidaySchedule\mscorlib-ext\obj\Release\mscorlib-ext.csprojResolveAssemblyReference.cache
+C:\Users\Lonnie\Documents\HolidayCalendar\source\bin\mscorlib-ext.XML
+C:\Users\Lonnie\Documents\HolidayCalendar\source\bin\mscorlib-ext.dll
+C:\Users\Lonnie\Documents\HolidayCalendar\source\bin\mscorlib-ext.pdb
+C:\Users\Lonnie\Documents\HolidayCalendar\source\mscorlib-ext\obj\Release\mscorlib-ext.dll
+C:\Users\Lonnie\Documents\HolidayCalendar\source\mscorlib-ext\obj\Release\mscorlib-ext.pdb
+C:\Users\Lonnie\Documents\HolidayCalendar\source\mscorlib-ext\bin\Release\mscorlib-ext.XML
+C:\Users\Lonnie\Documents\HolidayCalendar\source\mscorlib-ext\bin\Release\mscorlib-ext.dll
+C:\Users\Lonnie\Documents\HolidayCalendar\source\mscorlib-ext\bin\Release\mscorlib-ext.pdb

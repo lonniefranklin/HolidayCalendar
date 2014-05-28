@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>HolidayCalendar</id>
+        <version>1.0.0</version>
+        <authors>Lonnie Franklin</authors>
+        <projectUrl>https://github.com/lonniefranklin/HolidayCalendar</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Helpful and US holiday calendar class and DateTime extensions.</description>
+        <summary>Helpful US holiday calendar class and DateTime extensions.</summary>
+        <copyright>2014</copyright>
+    </metadata>
+    <files>
+        <file src="source\mscorlib-ext\bin\Release\mscorlib-ext.XML" target="content\mscorlib-ext.XML" />
+        <file src="source\mscorlib-ext\bin\Release\mscorlib-ext.dll" target="lib\mscorlib-ext.dll" />
+        <file src="source\mscorlib-ext\bin\Release\mscorlib-ext.pdb" target="lib\mscorlib-ext.pdb" />
+    </files>
+</package>
